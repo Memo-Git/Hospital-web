@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Hospital exterior placeholder</title>
+  <desc id="desc">A clean blue and teal illustration of a modern hospital exterior.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf4ff"/>
+      <stop offset="1" stop-color="#dff7f3"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2d6fb7"/>
+      <stop offset="1" stop-color="#174a74"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="22" stdDeviation="24" flood-color="#0f2940" flood-opacity=".16"/>
+    </filter>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1310" cy="150" r="240" fill="#fff" opacity=".48"/>
+  <circle cx="180" cy="170" r="110" fill="#fff" opacity=".36"/>
+  <path d="M0 725c235-78 425-61 637-13 284 64 490-54 963-16v204H0z" fill="#bfe6db"/>
+  <g filter="url(#shadow)">
+    <rect x="310" y="225" width="980" height="510" rx="26" fill="#f8fbff"/>
+    <rect x="430" y="155" width="740" height="580" rx="24" fill="#fff"/>
+    <rect x="493" y="232" width="614" height="350" rx="12" fill="url(#glass)"/>
+    <g fill="#9ed2ea" opacity=".68">
+      <rect x="526" y="267" width="113" height="74" rx="6"/>
+      <rect x="664" y="267" width="113" height="74" rx="6"/>
+      <rect x="802" y="267" width="113" height="74" rx="6"/>
+      <rect x="940" y="267" width="133" height="74" rx="6"/>
+      <rect x="526" y="373" width="113" height="74" rx="6"/>
+      <rect x="664" y="373" width="113" height="74" rx="6"/>
+      <rect x="802" y="373" width="113" height="74" rx="6"/>
+      <rect x="940" y="373" width="133" height="74" rx="6"/>
+      <rect x="526" y="479" width="113" height="74" rx="6"/>
+      <rect x="664" y="479" width="113" height="74" rx="6"/>
+      <rect x="802" y="479" width="113" height="74" rx="6"/>
+      <rect x="940" y="479" width="133" height="74" rx="6"/>
+    </g>
+    <rect x="681" y="582" width="238" height="153" rx="12" fill="#dcebf3"/>
+    <rect x="708" y="608" width="89" height="127" rx="6" fill="#2b668f"/>
+    <rect x="803" y="608" width="89" height="127" rx="6" fill="#2b668f"/>
+    <rect x="310" y="600" width="325" height="135" rx="18" fill="#f2f7fb"/>
+    <rect x="965" y="600" width="325" height="135" rx="18" fill="#f2f7fb"/>
+  </g>
+  <g transform="translate(800 100)">
+    <circle r="72" fill="#0f766e"/>
+    <rect x="-16" y="-44" width="32" height="88" rx="12" fill="#fff"/>
+    <rect x="-44" y="-16" width="88" height="32" rx="12" fill="#fff"/>
+  </g>
+  <g fill="#2d786e">
+    <circle cx="215" cy="675" r="60"/>
+    <rect x="205" y="675" width="20" height="108" rx="10"/>
+    <circle cx="1390" cy="674" r="68"/>
+    <rect x="1379" y="674" width="22" height="118" rx="11"/>
+  </g>
+  <text x="800" y="825" text-anchor="middle" fill="#34546b" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="5">SPARKCARE MEDICAL CENTER</text>
+</svg>

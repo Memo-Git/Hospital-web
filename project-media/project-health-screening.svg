@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="405" viewBox="0 0 720 405" role="img" aria-labelledby="title desc">
+  <title id="title">Health screening project illustration</title>
+  <desc id="desc">A blue and teal medical screening clipboard with a heart pulse.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef5ff"/>
+      <stop offset="1" stop-color="#e6f7f3"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#f8fbff"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="405" rx="28" fill="url(#bg)"/>
+  <circle cx="112" cy="82" r="42" fill="#dbeafe"/>
+  <circle cx="625" cy="315" r="64" fill="#ccfbf1"/>
+  <path d="M50 330c95-44 180-39 255 16s173 57 302 4v55H50z" fill="#d9f3ee" opacity=".75"/>
+  <rect x="234" y="67" width="252" height="286" rx="26" fill="url(#card)" stroke="#b9d5f8" stroke-width="4"/>
+  <rect x="306" y="47" width="108" height="52" rx="16" fill="#2563eb"/>
+  <rect x="326" y="62" width="68" height="11" rx="5.5" fill="#bfdbfe"/>
+  <path d="M287 154h146M287 197h146M287 240h78" fill="none" stroke="#9fb9d8" stroke-width="14" stroke-linecap="round"/>
+  <circle cx="412" cy="263" r="48" fill="#e6f7f3"/>
+  <path d="M383 264h16l10-22 16 43 11-21h17" fill="none" stroke="#0f766e" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="555" cy="116" r="34" fill="#0f766e"/>
+  <path d="M555 99v34M538 116h34" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+</svg>

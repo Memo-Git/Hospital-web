@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="405" viewBox="0 0 720 405" role="img" aria-labelledby="title desc">
+  <title id="title">Dental project illustration</title>
+  <desc id="desc">A clean dental care illustration with a tooth and medical cross.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef5ff"/>
+      <stop offset="1" stop-color="#e4f8f3"/>
+    </linearGradient>
+    <linearGradient id="tooth" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eaf3fd"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="405" rx="28" fill="url(#bg)"/>
+  <circle cx="108" cy="92" r="54" fill="#dbeafe"/>
+  <circle cx="614" cy="312" r="72" fill="#ccfbf1"/>
+  <path d="M50 337c121-39 220-36 300 7s185 52 320-6v67H50z" fill="#d5f0eb"/>
+  <path d="M285 79c35-20 65 8 75 8s40-28 75-8c56 32 25 101 4 139-17 30-24 113-52 113-24 0-15-80-27-80s-3 80-27 80c-28 0-35-83-52-113-21-38-52-107 4-139z" fill="url(#tooth)" stroke="#aac9ea" stroke-width="5"/>
+  <path d="M330 131c15 8 45 8 60 0" fill="none" stroke="#bfdbfe" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="507" cy="121" r="50" fill="#0f766e"/>
+  <path d="M507 95v52M481 121h52" stroke="#fff" stroke-width="13" stroke-linecap="round"/>
+  <circle cx="206" cy="249" r="34" fill="#2563eb"/>
+  <path d="M195 249l8 8 17-20" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
